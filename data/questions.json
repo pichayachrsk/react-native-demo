@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the capital of France?",
+            "options": ["Paris", "London", "Berlin", "Madrid"]
+        },
+        {
+            "id": 2,
+            "question": "What is the largest planet in our solar system?",
+            "options": ["Earth", "Mars", "Jupiter", "Saturn"]
+        },
+        {
+            "id": 3,
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"]
+        },
+        {
+            "id": 4,
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "CO2", "O2", "NaCl"]
+        },
+        {
+            "id": 5,
+            "question": "What is the largest mammal?",
+            "options": ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"]
+        },
+        {
+            "id": 6,
+            "question": "What is the main ingredient in guacamole?",
+            "options": ["Tomato", "Avocado", "Onion", "Pepper"]
+        },
+        {
+            "id": 7,
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Gold", "Diamond", "Iron", "Quartz"]
+        },
+        {
+            "id": 8,
+            "question": "What is the smallest country in the world?",
+            "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"]
+        },
+        {
+            "id": 9,
+            "question": "What is the primary language spoken in Brazil?",
+            "options": ["Spanish", "Portuguese", "English", "French"]
+        },
+        {
+            "id": 10,
+            "question": "What is the largest ocean on Earth?",
+            "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"]
+        },
+        {
+            "id": 11,
+            "question": "What is the main ingredient in sushi?",
+            "options": ["Rice", "Fish", "Seaweed", "Vegetables"]
+        },
+        {
+            "id": 12,
+            "question": "What is the capital of Japan?",
+            "options": ["Tokyo", "Seoul", "Beijing", "Bangkok"]
+        },
+        {
+            "id": 13,
+            "question": "What is the largest desert in the world?",
+            "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"]
+        },
+        {
+            "id": 14,
+            "question": "What is the primary currency used in the United States?",
+            "options": ["Euro", "Dollar", "Pound", "Yen"]
+        },
+        {
+            "id": 15,
+            "question": "What is the most widely spoken language in the world?",
+            "options": ["English", "Mandarin Chinese", "Spanish", "Hindi"]
+        },
+        {
+            "id": 16,
+            "question": "What is the largest continent by land area?",
+            "options": ["Africa", "Asia", "North America", "South America"]
+        },
+        {
+            "id": 17,
+            "question": "What is the main ingredient in hummus?",
+            "options": ["Chickpeas", "Lentils", "Beans", "Peas"]
+        },
+        {
+            "id": 18,
+            "question": "What is the capital of Canada?",
+            "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"]
+        },
+        {
+            "id": 19,
+            "question": "What is the primary religion in India?",
+            "options": ["Hinduism", "Islam", "Christianity", "Buddhism"]
+        },
+        {
+            "id": 20,
+            "question": "What is the largest animal on land?",
+            "options": ["Elephant", "Giraffe", "Hippopotamus", "Rhinoceros"]
+        }
+    ]
+}
